@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configspdate",
+        "uuid": 15100976,
+        "checksum": "howrxs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
